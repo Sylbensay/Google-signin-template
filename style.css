@@ -1,0 +1,62 @@
+
+body.body_one{
+    background-color: khaki;
+}
+
+.container.signing-container{
+    margin-top: 8%;
+}
+
+.card.signing-card {
+    margin-top: 10%;
+    padding: 4px 0px 20px ;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+}
+
+img.signing-img {
+    padding: 0rem 2rem 2rem;
+    margin: auto;
+    display: block;
+}
+
+form.sign-form {
+    max-width: 350px;
+    margin: auto;
+}
+
+button.btn-signIn {
+    color: black;
+    background-color: #ff928b;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+a.help-sign {
+    color: rgb(252, 24, 69);
+}
+
+a.create-new-acc {
+    text-align: center;
+    display: block;
+    margin-top: 5px;
+    text-decoration: underline;
+
+}
+/* .container-fluid {  fluid makes the width 100% all the time
+    background-color: gray;
+    height: 5rem;
+}
+
+.row{
+    background-color: cadetblue;
+    height: 7rem;
+}
+
+[class*="col-"]{
+    background-color: coral;
+    height: 6.8rem;
+    border: 2px rbga(0, 0, 0, 0.3);
+} */
